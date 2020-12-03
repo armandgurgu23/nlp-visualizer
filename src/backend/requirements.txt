@@ -5,3 +5,4 @@ yacs==0.1.5
 uvicorn==0.11.8
 fastapi==0.61.1
 transformers==3.5.0
+pytest==6.1.2
