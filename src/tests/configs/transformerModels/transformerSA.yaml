@@ -1,0 +1,3 @@
+pipeline:
+  pipeline_type: 'sentiment-analysis'
+  pipeline_model: 'lordtt13/emo-mobilebert'

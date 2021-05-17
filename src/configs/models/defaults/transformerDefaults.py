@@ -2,7 +2,7 @@
 from yacs.config import CfgNode as CN
 
 
-class TransformersConfigHandler(object):
+class TransformerConfigHandler(object):
     def __init__(self):
         self.initializeYTConfig()
 

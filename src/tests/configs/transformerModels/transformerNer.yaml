@@ -1,0 +1,3 @@
+pipeline:
+  pipeline_type: 'ner'
+  pipeline_model: 'mrm8488/mobilebert-finetuned-ner'
